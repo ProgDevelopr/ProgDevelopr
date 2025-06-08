@@ -7,4 +7,4 @@
 🪄 I make cool projects that can make your life easier, make you have fun and help data engineers out there!
 Just call me he/him.
 
-💡 Fun fact: I have a twin who likes data analytics! Check out his profile here: https://github.com/nonscriptedd
+💡 Fun fact: I have a twin who likes web development! Check out his profile here: https://github.com/nonscriptedd
