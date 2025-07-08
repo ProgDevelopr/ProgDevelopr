@@ -1,6 +1,6 @@
 🐍 Hello, I am PyDev! I am a data engineer that likes messing with SQL, Docker and well... Python!
 
-🐘 Also, i started and got deeply PostgreSQL! I might make projects using psychopg2!
+🐘 Also, i started and got deeply into PostgreSQL! I might make projects using psychopg2!
 
 🏝️ I'm currently learning data engineering fundamentals, and I think I'm good at Python!
 
