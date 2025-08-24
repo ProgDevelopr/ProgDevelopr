@@ -1,4 +1,4 @@
-💎🙂⚫ Hello, **I am PyDev!** I am a **data engineer** that likes messing with **🐘SQL**, **🐳Docker** and well... **🐍Python**!
+🟢🙂⚫ Hello, **I am PyDev!** I am a **data engineer** that likes messing with **🐘SQL**, **🐳Docker** and well... **🐍Python**!
 
 🐘😥 Sadly, **psychopg2** projects will not be released publicly due to private info.
 
